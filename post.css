@@ -1,0 +1,27 @@
+body{
+    background-color: bisque;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+}
+.boss{
+    width: 400px;
+    height: 300px;
+    background-color: rgb(66, 56, 56);
+}
+.wraper{
+   text-align: center;
+   margin-top: 100px;
+   color: blanchedalmond;
+}
+.som{
+    margin-top: 10px;
+}
+input{
+    padding:  10px 20px;
+    background-color: bisque;
+}
+.eur{
+    margin-top: 20px;
+}
